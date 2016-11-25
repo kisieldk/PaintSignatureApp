@@ -1,0 +1,9 @@
+C:\App\Paint\Paint\Paint\Paint\bin\Debug\Paint.dll
+C:\App\Paint\Paint\Paint\Paint\bin\Debug\Paint.pdb
+C:\App\Paint\Paint\Paint\Paint\bin\Debug\Xamarin.Forms.Core.dll
+C:\App\Paint\Paint\Paint\Paint\bin\Debug\Xamarin.Forms.Platform.dll
+C:\App\Paint\Paint\Paint\Paint\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\App\Paint\Paint\Paint\Paint\bin\Debug\Xamarin.Forms.Core.xml
+C:\App\Paint\Paint\Paint\Paint\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\App\Paint\Paint\Paint\Paint\obj\Debug\Paint.dll
+C:\App\Paint\Paint\Paint\Paint\obj\Debug\Paint.pdb

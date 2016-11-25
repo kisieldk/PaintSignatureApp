@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Paint.View.SignaturePage">
+	<StackLayout Orientation="Vertical">
+			<Label Text="Draw somthing" VerticalOptions="Center" HorizontalOptions="Center" />
+			<Button x:Name="btnSave" Text="Save as Base64"  Clicked="btnSave_Clicked" VerticalOptions="Center" HorizontalOptions="FillAndExpand"/>
+		<Button x:Name="btnClean" Text="Clean surface"  Clicked="btnClean_Clicked" VerticalOptions="Center" HorizontalOptions="FillAndExpand"/>
+			<ContentView x:Name="DrawingFrame" Padding="1" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+	</StackLayout>
+</ContentPage>
